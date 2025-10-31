@@ -84,14 +84,22 @@ Formular hipótesis o preguntas de investigación basadas en los hallazgos obser
 
 El documento se divide en las siguientes secciones:
 
-Carga y exploración inical de dataset.
+Introducción.
 
-Identificación de problemáticas.
+Importación de librerías.
 
-Limpieza de datos paso a paso.
+Carga de dataset.
 
-Verificación de la limpieza
+Limpieza y descripción inicial.
 
-Guardar dataset limpio.
+Análisis de marcas más populares.
 
-Conclusiones.
+Distribución de tipos de vehículos eléctricos.
+
+Distribución del rango eléctrico (Autonomía).
+
+Autonomía eléctrica por marca (Top 10).
+
+Mapa de correlación entre varaibles numéricas.
+
+Conclusiones principales.
