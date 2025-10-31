@@ -84,18 +84,14 @@ Formular hipótesis o preguntas de investigación basadas en los hallazgos obser
 
 El documento se divide en las siguientes secciones:
 
-Introducción.
+Carga y exploración inical de dataset.
 
-Importación de librerías y carga del dataset.
+Identificación de problemáticas.
 
-Exploración inicial y descripción de variables.
+Limpieza de datos paso a paso.
 
-Limpieza y preparación de los datos.
+Verificación de la limpieza
 
-Análisis univariado y bivariado.
+Guardar dataset limpio.
 
-Visualizaciones descriptivas.
-
-Hallazgos principales.
-
-Conclusiones y posibles líneas de análisis futuro.
+Conclusiones.
